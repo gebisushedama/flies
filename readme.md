@@ -1,11 +1,6 @@
 备注：
 
-<table>
-    <tr>
-        <th> ### 离思五首</th>
-    </tr> 
-     
-</table>
+ ### 离思五首
 
 <table>
     <tr>
